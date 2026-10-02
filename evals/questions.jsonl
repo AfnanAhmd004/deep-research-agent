@@ -1,0 +1,27 @@
+{"question": "How much earlier does CUSUM detect gearbox wear than a threshold detector?", "answerable": true, "gold_doc": "robot-ops-agent", "gold_facts": ["250", "560"]}
+{"question": "What is pass^8 on critical cases for agent_v2?", "answerable": true, "gold_doc": "agent-evals", "gold_facts": ["40%"]}
+{"question": "How many false work orders did per-robot triage open during the heatwave?", "answerable": true, "gold_doc": "robot-ops-agent", "gold_facts": ["19"]}
+{"question": "What accuracy does routing to specialists reach and at what cost?", "answerable": true, "gold_doc": "agent-swarm", "gold_facts": ["86"]}
+{"question": "How does majority voting with five samples of the same model compare to five different models?", "answerable": true, "gold_doc": "agent-swarm", "gold_facts": ["76", "88"]}
+{"question": "What happens to confidence-weighted voting with one overconfident adversary?", "answerable": true, "gold_doc": "agent-swarm", "gold_facts": ["44"]}
+{"question": "How much of the addition skill does QLoRA keep after fine-tuning, and what fixes it?", "answerable": true, "gold_doc": "lora-finetuning-lab", "gold_facts": ["3%", "replay"]}
+{"question": "What speedup does the KV cache give in the inference server?", "answerable": true, "gold_doc": "llm-inference-server", "gold_facts": ["1.6"]}
+{"question": "What is the speculative decoding acceptance rate?", "answerable": true, "gold_doc": "llm-inference-server", "gold_facts": ["84"]}
+{"question": "How does the Cauchy robust kernel handle false loop closures in pose-graph SLAM?", "answerable": true, "gold_doc": "pose-graph-slam", "gold_facts": ["0.19", "9.02"]}
+{"question": "How fast is the LiDAR perception pipeline?", "answerable": true, "gold_doc": "lidar-perception-cpp", "gold_facts": ["20 ms"]}
+{"question": "What false reject rate does the poka-yoke inspection station achieve?", "answerable": true, "gold_doc": "vision-pokayoke", "gold_facts": ["0%"]}
+{"question": "How much does Almgren-Chriss reduce the standard deviation of implementation shortfall?", "answerable": true, "gold_doc": "lob-microstructure", "gold_facts": ["2.73", "6.19"]}
+{"question": "What is the deflated Sharpe ratio of the best of 200 noise strategies?", "answerable": true, "gold_doc": "bayesian-signals", "gold_facts": ["0.58", "0.577"]}
+{"question": "How does the GP compare with linear ARD out of sample?", "answerable": true, "gold_doc": "bayesian-signals", "gold_facts": ["2.5", "0.192"]}
+{"question": "What top-1 routing accuracy does the agent roster router achieve?", "answerable": true, "gold_doc": "agent-roster", "gold_facts": ["82%"]}
+{"question": "Which n8n version were the workflows verified on?", "answerable": true, "gold_doc": "n8n-ai-workflows", "gold_facts": ["2.41"]}
+{"question": "What does the grounding check in the fleet KPI report do?", "answerable": true, "gold_doc": "n8n-ai-workflows", "gold_facts": ["number"]}
+{"question": "How long did the three parallel data sources take in the incident triage example?", "answerable": true, "gold_doc": "agent-graph", "gold_facts": ["0.41"]}
+{"question": "What happens when an agent-graph run crashes after a human approval?", "answerable": true, "gold_doc": "agent-graph", "gold_facts": ["approval"]}
+{"question": "What reward does DPO reach in the preference alignment experiments?", "answerable": true, "gold_doc": "preference-alignment", "gold_facts": ["0.894"]}
+{"question": "What learning rate problem did LoRA adapters have with forgetting?", "answerable": true, "gold_doc": "lora-finetuning-lab", "gold_facts": ["learning rate"]}
+{"question": "What is the capital of France?", "answerable": false}
+{"question": "Who won the 2018 football world cup?", "answerable": false}
+{"question": "What is the boiling point of ethanol in Kelvin?", "answerable": false}
+{"question": "How many moons does Jupiter have?", "answerable": false}
+{"question": "What is the recommended dosage of ibuprofen for adults?", "answerable": false}
